@@ -19,3 +19,8 @@ Kubernetes services:
 Kuberenetes logs:
 ------------------
 ![Kubernetes logs](https://user-images.githubusercontent.com/55881867/224488808-f978f1a4-4dbc-47cc-aaee-60f9f654f8a6.PNG)
+
+Kuberenetes HPA:
+------------------
+![Kubernetes HPA](https://user-images.githubusercontent.com/55881867/224505984-7a900587-01c7-47e8-9eca-01ccd79d9087.PNG)
+
