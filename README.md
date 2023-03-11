@@ -15,3 +15,7 @@ Kubernetes pods:
 Kubernetes services:
 ------------------------
 ![Kubernetes services](https://user-images.githubusercontent.com/55881867/224488510-13caee10-bbd4-43ee-b78f-fbacee601f86.PNG)
+
+Kuberenetes logs:
+------------------
+![Kubernetes logs](https://user-images.githubusercontent.com/55881867/224488808-f978f1a4-4dbc-47cc-aaee-60f9f654f8a6.PNG)
