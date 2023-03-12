@@ -4,6 +4,10 @@ Dockerhub screenshot:
 ----------------------
 ![Dockerhub](https://user-images.githubusercontent.com/55881867/224488057-8afef451-823d-4411-92c5-e2624b41e5bd.PNG)
 
+Travis CI:
+-----------
+![Travis CI](https://user-images.githubusercontent.com/55881867/224538122-bef22b70-365f-4bb7-9167-6ff2907e7a6c.PNG)
+
 Kubernetes deployments:
 ------------------------
 ![Kubernetes deployments](https://user-images.githubusercontent.com/55881867/224488503-36c4b859-5090-475d-be84-397f2faf9359.PNG)
